@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+a{
+    color: crimson;
+}
+
+ol li {
+    color: white;
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+h2{
+    color: crimson;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+
+tr{
+    color: white;
+}
+
+th{
+    background-color: crimson;
+}
+
+td a{
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: dashed;
+    text-decoration: dotted;
+}
+
+td a img {
+    width: 100px;
+    height: auto;
+}
