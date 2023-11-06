@@ -42,6 +42,14 @@ td a{
 }
 
 td a img {
-    width: 100px;
-    height: auto;
+    width: 10%;
+    height: 10%;
+}
+
+p{
+    color: crimson;
+}
+
+img {
+    margin: auto;
 }
